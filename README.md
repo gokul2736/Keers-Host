@@ -1,6 +1,5 @@
 # Keer-s-Host
-Keer's Cred
 
-
-
-https://github.com/keerthanaapillaram/ENDOSCAN-VLM:Vision-Language Model for Multimodal Detection
+https://github.com/keerthanaapillaram/ENDOSCAN-VLM    
+Repo name:**"ENDOSCAN-VLM"**
+TITLE: "ENDOSCAN-VLM: Vision-Language Model for Multimodal Detection"
