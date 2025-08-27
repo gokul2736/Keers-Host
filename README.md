@@ -1,4 +1,4 @@
-# Keer-s-Host
+# Keer's-Host
 
 https://github.com/keerthanaapillaram/ENDOSCAN-VLM    
 Repo name:**"ENDOSCAN-VLM"**  
