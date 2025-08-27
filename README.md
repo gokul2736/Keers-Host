@@ -3,4 +3,4 @@ Keer's Cred
 
 
 
-https://github.com/keerthanaapillaram/ENDOSCAN-VLM: Vision-Language Model for Multimodal Detection
+https://github.com/keerthanaapillaram/ENDOSCAN-VLM:Vision-Language Model for Multimodal Detection
